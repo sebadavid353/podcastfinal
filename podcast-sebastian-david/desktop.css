@@ -1,0 +1,279 @@
+
+
+#world{
+    margin-left: 2%;
+    margin-right: 2%;
+    text-decoration:line-through;
+}
+#titulo{
+    display: flex;
+    justify-content: center;
+    margin-right: 13.9%;
+    font-size: 64px;
+    margin-top: 10%;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 300;
+    
+
+}
+.conoce {
+    margin-left: 15%;
+    font-size: 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    box-sizing: content-box;
+    width: 226px;
+    
+    border: solid#00F3BB  1px;
+    background: #00F3BB ;
+
+    margin-top: 5%;
+    text-align: center;
+
+
+}
+#subtitulo{
+    display: flex;
+    justify-content: center;
+    margin-left: 13.9%;
+    font-size: 16px;
+    font-family: 'IBM Plex Mono', monospace;
+    margin-top: 0%;
+    margin-left:18.5%;
+    width: 50%;
+
+}
+
+#episodios{
+    margin-top: 22%;
+    margin-left: -30%;
+    position: absolute;
+    font-size: 48px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    
+}
+
+
+.iframe{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    height: 232px;
+    width: 100%;
+   
+    
+}
+
+
+.fondoiframe{
+   z-index: -1;
+   position: absolute;
+   width: 100%; 
+   height: 1400px; 
+   background:  linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
+   clip-path: polygon(0 29%, 100% 19%, 100% 91%, 0% 100%);
+
+   margin-top: -10%;
+
+
+}
+   
+.epi1{
+    margin-top: 32%;
+    width: 584px;
+    height: 232px;
+    border: 0px;
+    
+}
+.epi2{
+   margin-top: 32%;
+     width: 584px;
+    height: 232px;
+    border: 0px;
+  }
+.epi3{
+   margin-top: 10%;
+    width: 584px;
+  height: 232px;
+  border: 0px;
+}
+  
+.epi4{
+    margin-top: 10%;
+    width: 584px;
+  height: 232px;
+  border: 0px;
+}
+
+
+
+#phone{
+    position: relative;
+    width: 360px;
+    height: 519px;
+    margin-top: 65%;
+    margin-left: 20%;
+  
+
+
+}
+#dvenimos{
+ margin-left: 50%;
+ margin-top: -25%;
+ width: 30%;
+    
+
+}
+
+#h3{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#h3{
+    font-size: 36px;
+}
+#text{
+    font-size: 14px;
+    font-family: 'IBM Plex Mono', monospace;
+}
+#text3{
+    font-size: 36px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 400;
+    padding-left: 20%;
+    margin-top: 12%;
+}
+
+.img{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+    width: 449px;   
+    height: 364px;
+}
+.fotos{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+#temas{
+    
+    font-size: 36px;
+    
+}
+#ultnovedades{
+    margin: 0px;
+    font-size: 36px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+
+}
+#escucha{
+    margin-left: 39%;
+    font-size: 16px;
+    font-family: 'IBM Plex Mono', monospace; 
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+     box-sizing: content-box;
+    width: 288px;
+    border: solid#00F3BB  1px;
+    background: #00F3BB ;
+    text-align: center;
+    margin-top:5%;
+    padding-top: 2%;
+    
+}
+
+
+.iconos{
+
+font-size: 24px;
+font-family: 'IBM Plex Mono', monospace;
+font-weight: 700;
+
+}
+
+#temas{
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: -41%;
+    margin-top: 6%;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 400;
+
+}
+
+
+.novedades{
+    background:  linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
+    clip-path: polygon(0 25%, 100% 0%, 100% 100%, 0% 100%);
+
+    margin-top: 9%;
+    width: 100%;
+    height: 500px;
+}
+
+footer{
+    font-size: 14px;
+    font-family: 'IBM Plex Mono', monospace; 
+    margin-top: 3%;
+    margin-left: -75%;
+}
+.iconosf{
+    margin-left: 75%;
+    margin-top:-2%;
+    display: flex;
+    width: 25%;
+    
+    
+    
+}
+#link{
+    color: black;
+}
+
+.remoto{
+    margin-left: -55%;
+    margin-top: 7%;
+}
+.programacion{
+    margin-top: -14%;
+    margin-left: -19%;
+    
+}
+#rp{
+    margin-left:44%;
+    width: 190px;
+}
+
+
+
+.codigo{
+margin-left: 20%;
+margin-top: -16.4%;
+}
+
+.informatico{
+    margin-left: 61%;
+    margin-top: -14%;
+}
+#si{
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+
